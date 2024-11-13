@@ -3,7 +3,7 @@ import { IoIosTrendingDown, IoIosTrendingUp } from "react-icons/io";
 const CountryTable = () => {
   return (
     <>
-      <div style={{ width: "420px" }} className="w-full bg-white  rounded-md flex flex-col justify-start shadow-md ">
+      <div style={{ width: "360px" }} className="w-full h-auto bg-white  rounded-md flex flex-col justify-start shadow-md ">
 
       <div className="bg-gray-100 p-3 border-b-2 border-gray-300">
             <strong className="text-lg font-semibold  text-gray-700 mb-5">Total Countries By Sale</strong>
@@ -13,7 +13,7 @@ const CountryTable = () => {
          
           
 
-          <div className='w-full mb-4 flex flex-row justify-between items-center'>
+          <div className='w-full mb-5 flex flex-row justify-between items-center'>
             <h4 className="text-4xl font-bold">34.89K</h4>
             <h6 className="text-sm font-light">Since Last Week</h6>
           </div>

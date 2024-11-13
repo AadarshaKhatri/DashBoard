@@ -9,7 +9,7 @@ const Boxwrapper = ({...props}) => {
 
       <div className={boxwarpStyles}>
         <div>
-          <div className=' w-60 flex flex-row justify-between items-start'>
+          <div className=' w-52 flex flex-row justify-between items-start'>
 
             <div className='flex  flex-col justify-start  space-x-2'>
               <span className='text-lg text-gray-700 font-sans '>{props.title}</span>
