@@ -28,7 +28,7 @@ const Header = () => {
 
         <div className='flex flex-row w-40 items-center'>
           <h5 className='w-full'>Abhi Dongol</h5>
-          <img src = "src\assets\pfp.png" alt = "profile"></img>
+          <img src = "pfp.png" alt = "profile"></img>
         </div>
        
        
