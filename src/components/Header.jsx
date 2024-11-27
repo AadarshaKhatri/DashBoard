@@ -27,7 +27,7 @@ const Header = () => {
         <hr className="rotate w-px h-10 bg-gray-300 mx-4" />
 
         <div className='flex flex-row w-40 items-center mr-5'>
-          <h5 className='w-full'>Abhi Dongol</h5>
+          <h5 className='w-full'>Aadarsha Khatri</h5>
           <img src = "pfp.png" alt = "profile"></img>
         </div>
        
